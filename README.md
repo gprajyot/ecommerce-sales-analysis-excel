@@ -12,7 +12,6 @@ An Excel portfolio project analyzing e-commerce sales performance across product
 
 | File | Description |
 |---|---|
-
 | [Ecommerce_Sales.xlsx](data/Ecommerce_Sales.xlsx) | Complete workbook with source data and supporting analysis |
 
 Open the workbook in Microsoft Excel and select the **Dashboard** sheet. GitHub can display the preview image, but it cannot run Excel slicers, PivotTables, or chart interactions inside the README.
