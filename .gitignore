@@ -1,0 +1,7 @@
+~$*.xlsx
+~$*.xlsm
+*.tmp
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
